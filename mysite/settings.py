@@ -25,7 +25,11 @@ SECRET_KEY = 'kerx2((74akf018fk1bw3^)h$#&f=9n6szy$!i_+!^q8llmg$z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+<<<<<<< HEAD
 ALLOWED_HOSTS = ['127.0.0.1', '.ippstore.comm']
+=======
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+>>>>>>> 18054ec641d7fec33d5e367dd090f5f31bae997d
 
 
 # Application definition
