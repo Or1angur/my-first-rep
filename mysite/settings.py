@@ -25,7 +25,7 @@ SECRET_KEY = 'kerx2((74akf018fk1bw3^)h$#&f=9n6szy$!i_+!^q8llmg$z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.ippstore.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.ippstore.comm']
 
 
 # Application definition
